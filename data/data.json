@@ -1,0 +1,179 @@
+{
+  "therapies_categories": [
+    {
+      "id": "cognitive",
+      "title": "Cognitive Therapy",
+      "description": "Therapeotic treatment for cognitive behavior.",
+      "image": "https://images.unsplash.com/photo-1572742850837-6fbb4175e562?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "psychotherapy",
+      "title": "Psychotherapy",
+      "description": "Psychotherapeotic treatmeant.",
+      "image": "https://images.unsplash.com/photo-1581333100576-b73befd79a9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id": "humanistic",
+      "title": "Humanistic psychology",
+      "description": "Treatmeant for humanistic problems.",
+      "image": "https://images.unsplash.com/photo-1586611637670-bd7d9cae86b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    }
+  ],
+  "allTherapies": [
+    {
+      "id": "therapist-1",
+      "title": "Anna Maria",
+      "therapyType": "cognitive",
+      "description": "An expert about cognitive behavior.",
+      "therapyTime": [
+        "02-05-2023 10:00",
+        "02-05-2023 11:00",
+        "02-05-2023 12:00",
+        "03-05-2023 14:00",
+        "04-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": [
+      ],
+      "phoneNumbers_registered": [
+      ]
+    },
+    {
+      "id": "therapist-2",
+      "title": "Jennifer Great",
+      "therapyType": "cognitive",
+      "description": "An expert about cognitive behavior.",
+      "therapyTime": [
+        "02-05-2023 10:00",
+        "02-05-2023 11:00",
+        "02-05-2023 12:00",
+        "03-05-2023 14:00",
+        "04-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1573496130407-57329f01f769?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "emails_registered": [
+        "ledinhcuong99@gmail.com",
+        "ledinhcu33ong99@gmail.com",
+        ""
+      ],
+      "phoneNumbers_registered": [
+        "08385053421",
+        "08348532345",
+        ""
+      ]
+    },
+    {
+      "id": "therapist-3",
+      "title": "Jessica Tart",
+      "therapyType": "cognitive",
+      "description": "An expert about cognitive behavior.",
+      "therapyTime": [
+        "02-05-2023 18:00",
+        "04-05-2023 18:00",
+        "10-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+      "emails_registered": [],
+      "phoneNumbers_registered": []
+    },
+    {
+      "id": "therapist-4",
+      "title": "Maria Hartz",
+      "therapyType": "psychotherapy",
+      "description": "An expert about psychotherapy.",
+      "therapyTime": [
+        "02-05-2023 18:00",
+        "04-05-2023 18:00",
+        "10-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1551836022-b06985bceb24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": [
+        "kjafhaf342@gmail.com",
+        "hafsfsdfsd32@gmail.com"
+      ],
+      "phoneNumbers_registered": [
+        "0842442411414",
+        "084424411313"
+      ]
+    },
+    {
+      "id": "therapist-5",
+      "title": "Jack Hammond",
+      "therapyType": "psychotherapy",
+      "description": "An expert about psychotherapy.",
+      "therapyTime": [
+        "02-05-2023 18:00",
+        "03-05-2023 12:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1637729960394-1a1200764aa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1149&q=80",
+      "emails_registered": [
+      ],
+      "phoneNumbers_registered": [
+      ]
+    },
+    {
+      "id": "therapist-6",
+      "title": "Courtney White",
+      "therapyType": "psychotherapy",
+      "description": "An expert about psychotherapy.",
+      "therapyTime": [
+        "02-05-2023 18:00",
+        "04-05-2023 18:00",
+        "10-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1554244933-d876deb6b2ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "emails_registered": [
+      ],
+      "phoneNumbers_registered": [
+      ]
+    },
+    {
+      "id": "therapist-7",
+      "title": "Kim Tiamo",
+      "therapyType": "humanistic",
+      "description": "An expert about humanistic therapy.",
+      "therapyTime": [
+        "02-05-2023 18:00",
+        "04-05-2023 18:00",
+        "10-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1557425631-f132f06f4aa1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1137&q=80",
+      "emails_registered": [],
+      "phoneNumbers_registered": [
+        "0844245632"
+      ]
+    },
+    {
+      "id": "therapist-8",
+      "title": "Samantha Gartner",
+      "therapyType": "humanistic",
+      "description": "An expert about humanistic therapy.",
+      "therapyTime": [
+        "02-05-2023 10:00",
+        "02-05-2023 11:00",
+        "02-05-2023 12:00",
+        "03-05-2023 14:00",
+        "04-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "emails_registered": [],
+      "phoneNumbers_registered": []
+    },
+    {
+      "id": "therapist-9",
+      "title": "Elizabeth Stone",
+      "therapyType": "humanistic",
+      "description": "An expert about humanistic therapy.",
+      "therapyTime": [
+        "02-05-2023 10:00",
+        "02-05-2023 11:00",
+        "02-05-2023 12:00",
+        "03-05-2023 14:00",
+        "04-05-2023 15:00"
+      ],
+      "image": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "emails_registered": [],
+      "phoneNumbers_registered": []
+    }
+  ]
+}
